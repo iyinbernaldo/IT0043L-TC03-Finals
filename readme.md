@@ -22,8 +22,7 @@ Website - https://iyinbernaldo.github.io/Seatwork-4/
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@e98700f9-f823-407f-9aed-cfc07f60fe07/62078445-4027-418b-948e-df04958e0a76.svg"></embed></figure>
 
 ```
 WD-Finals
