@@ -23,11 +23,9 @@ Website - https://iyinbernaldo.github.io/Seatwork-4/
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 <hr>
-<details>
   <p align = "center">
     <img src="https://wakatime.com/badge/user/e98700f9-f823-407f-9aed-cfc07f60fe07/project/276304fc-28bb-4229-851a-fab6d1299118.svg"/>
   </p>
-</details>
 <hr>
 
 ```
