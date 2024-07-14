@@ -8,10 +8,62 @@ The whole website is created using HTML, CSS, and JavaScript.
 - CSS Animation
 - JavaScript script
 
+### Links
+Seatwork 3
+Github - https://github.com/iyinbernaldo/IT0043L-Seatwork-3
+Website - https://github.com/iyinbernaldo/IT0043L-Seatwork-3
+
+Seatwork 4
+Github - https://github.com/iyinbernaldo/Seatwork-4
+Website - https://iyinbernaldo.github.io/Seatwork-4/
+
 ### Technology
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+```
+WD-Finals
+└─ assets
+|   └─ css
+|   |   └─ style.css
+└─ pages
+|  └─ resume
+|  |  └─ assets
+|  |  |  └─ css
+|  |  |  |  └─ style.css
+|  |  |  └─ img
+|  |  |  |  └─ dots.png
+|  |  |  |  └─ profile.png
+|  |  └─ index.html
+|  └─ portfolio
+|  |  └─ assets
+|  |  |  └─ css
+|  |  |  |  └─ style.css
+|  |  |  └─ img
+|  |  |  |  └─ s3.png
+|  |  |  |  └─ s4.png
+|  |  └─ index.html
+|  └─ portfolio-s3
+|  |  └─ assets
+|  |  |  └─ css
+|  |  |  |  └─ style.css
+|  |  |  └─ img
+|  |  |  |  └─ headers.png
+|  |  └─ index.html
+|  └─ portfolio-s4
+|  |  └─ assets
+|  |  |  └─ css
+|  |  |  |  └─ style.css
+|  |  |  └─ img
+|  |  |  |  └─ flayout.png
+|  |  └─ index.html
+└─ index.html
+└─ readme.md
+```
 
 ## Resources
 | Title | Purpose | Link |
