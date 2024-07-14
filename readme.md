@@ -25,7 +25,7 @@ Website - https://iyinbernaldo.github.io/Seatwork-4/
 <hr>
 <details>
   <p align = "center">
-    <img src="https://wakatime.com/share/@e98700f9-f823-407f-9aed-cfc07f60fe07/62078445-4027-418b-948e-df04958e0a76.svg" height="400"/>
+    <img src="https://wakatime.com/badge/user/e98700f9-f823-407f-9aed-cfc07f60fe07/project/276304fc-28bb-4229-851a-fab6d1299118.svg"/>
   </p>
 </details>
 <hr>
